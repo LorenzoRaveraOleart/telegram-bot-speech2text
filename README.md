@@ -19,7 +19,7 @@ Setting Up Your Environment
 
 Clone this repository to your local machine:
     
-    git clone https://github.com/yourgithub/telegram-bot-AWS-transcribe.git
+    git clone https://github.com/yourgithub/telegram-bot-speech2text.git
 
 
 Install the required Python packages:
